@@ -27,9 +27,6 @@ Currently, I’m fully focused on transitioning into IT and building a career in
 ### 🌐 Portfolio
 👉 [My portfolio / resume website](https://oksankalv.github.io/)
 
-### 📫 Contact
-- GitHub: [github.com/OksankaLV](https://github.com/OksankaLV)
-
 ✨ Open to learning, feedback, and new opportunities
 
 <!--
